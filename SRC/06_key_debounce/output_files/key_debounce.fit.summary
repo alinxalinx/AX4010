@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Mar 22 15:12:17 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : key_debounce
+Top-level Entity Name : key_debounce
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 165 / 10,320 ( 2 % )
+    Total combinational functions : 163 / 10,320 ( 2 % )
+    Dedicated logic registers : 95 / 10,320 ( < 1 % )
+Total registers : 95
+Total pins : 17 / 180 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

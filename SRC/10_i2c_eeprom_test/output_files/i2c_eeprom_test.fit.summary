@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Mar 22 15:16:51 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : i2c_eeprom_test
+Top-level Entity Name : i2c_eeprom_test
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 467 / 10,320 ( 5 % )
+    Total combinational functions : 445 / 10,320 ( 4 % )
+    Dedicated logic registers : 272 / 10,320 ( 3 % )
+Total registers : 272
+Total pins : 19 / 180 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

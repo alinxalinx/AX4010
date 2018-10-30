@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Mar 22 15:08:09 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : pll_test
+Top-level Entity Name : pll_test
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 0 / 10,320 ( 0 % )
+    Total combinational functions : 0 / 10,320 ( 0 % )
+    Dedicated logic registers : 0 / 10,320 ( 0 % )
+Total registers : 0
+Total pins : 6 / 180 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
